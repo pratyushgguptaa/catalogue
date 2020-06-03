@@ -19,7 +19,7 @@ var bill =0, totalPrice =199,k=1;
         $(".overlay").fadeOut();
       }
       function addToCart(){
-        $(".item-card").append("<a class=\"btn btn-lg\" href=\"#cart\" role=\"button\"><i class=\"fas fa-cart-plus\"></i>&nbsp&nbspAdd to Cart</a>");
+        $(".item-card").append("<a class=\"btn btn-lg\" role=\"button\"><i class=\"fas fa-cart-plus\"></i>&nbsp&nbspAdd to Cart</a>");
       }
       //add the favourite button to each item card
       $(".item-card").prepend("<i class=\"fas fa-heart\"></i>");
