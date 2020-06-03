@@ -1,4 +1,4 @@
 # catalogue
 front-end catalogue with javascript pricing
 ## Site Link
-[Catalogue JS](catalogue-js.netlify.app)
+[Catalogue JS](https://catalogue-js.netlify.app)
